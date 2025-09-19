@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  SwiftDay
 //
-//  Created by Jesus Ortega on 18/09/25.
+//  Created by Meliza Aguilar on 18/09/25.
 //
 
 import SwiftUI
